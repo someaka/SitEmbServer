@@ -1,0 +1,8 @@
+/.vscode
+/pyrightconfig.json
+/run_server.bat
+/run_server.sh
+/run_server_and_tests.sh
+/s1key.e
+/server.py.bak
+/test_payload.json

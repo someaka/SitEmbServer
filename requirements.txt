@@ -1,0 +1,9 @@
+torch
+transformers
+fastapi
+uvicorn
+more-itertools
+tqdm
+pydantic
+timm
+peft
